@@ -2,6 +2,11 @@ MoonGoblins ($MOOG)
 Community-driven SPL token built on Solana — the Goblin Army of Web3.
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moongoblinscrypto/token-list/main/src/moog-logo.png" width="160" alt="MoonGoblins Logo">
+</p>
+
+
 # MoonGoblins ($MOOG)
 ![Chain](https://img.shields.io/badge/Chain-Solana-1E3A8A?style=for-the-badge&logo=solana)
 ![Status](https://img.shields.io/badge/Status-Active-00FFAA?style=for-the-badge)
