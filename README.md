@@ -3,10 +3,11 @@ Community-driven SPL token built on Solana — the Goblin Army of Web3.
 
 
 # MoonGoblins ($MOOG)
-![Chain](https://img.shields.io/badge/chain-Solana-blue)
-![Status](https://img.shields.io/badge/status-Active-success)
-![Token](https://img.shields.io/badge/token-$MOOG-9cf)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Chain](https://img.shields.io/badge/Chain-Solana-1E3A8A?style=for-the-badge&logo=solana)
+![Status](https://img.shields.io/badge/Status-Active-00FFAA?style=for-the-badge)
+![Token](https://img.shields.io/badge/Token-$MOOG-FFD700?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-555?style=for-the-badge)
+
 
 **Official Token List and Repositories for the MoonGoblins Project**
 
