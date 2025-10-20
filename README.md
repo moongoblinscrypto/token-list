@@ -14,4 +14,13 @@
 | Solana | `6muVoCg9MjW7ForDDfLHjAix4HGvA4u2p5rreHZ4WTzZ` | 9 | 10 B MOOG (Max) |
 
 ## Add to Phantom / Jupiter
-1. Copy this link:  
+1. Copy this link:  https://raw.githubusercontent.com/moongoblinscrypto/token-list/main/src/tokens/solana.tokenlist.json
+2. In **Phantom Wallet** → *Settings → Token Lists → Add Custom List → Paste Link*  
+3. You’ll see **MoonGoblins ($MOOG)** appear automatically.
+
+---
+
+**Status:** Active (Solana)  
+**Liquidity:** [View Pool on Raydium](https://raydium.io/swap/?inputCurrency=sol&outputCurrency=6muVoCg9MjW7ForDDfLHjAix4HGvA4u2p5rreHZ4WTzZ)
+
+> © 2025 MoonGoblins. Community-driven token ecosystem.
