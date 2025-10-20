@@ -1,4 +1,8 @@
-# 🪙 MoonGoblins ($MOOG)
+MoonGoblins ($MOOG)
+Community-driven SPL token built on Solana — the Goblin Army of Web3.
+
+
+# MoonGoblins ($MOOG)
 
 **Official Token List and Repositories for the MoonGoblins Project**
 
