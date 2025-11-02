@@ -3,7 +3,7 @@ Community-driven SPL token built on Solana — the Goblin Army of Web3.
 
 
 <p align="center">
-  <img src="https://moongoblins.net/images/moog-logo.png" width="160" alt="MoonGoblins Logo">
+  <img src="https://moongoblins.net/nft/mainlogo.png" width="160" alt="MoonGoblins Logo">
 </p>
 
 
